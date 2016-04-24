@@ -1,0 +1,28 @@
+name: iaposner
+favicon: null
+layout_spectrum: 0.7154469219967723
+typography_spectrum: 0.3840748784132302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8657104950398207
+  lightness: 0.8100315521005541
+  saturation: 0.044381650630384684
+  rhythmicContrast: 0.26009091711603105
+purpose: []
