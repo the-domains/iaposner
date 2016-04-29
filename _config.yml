@@ -1,29 +1,18 @@
-name: iaposner
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.3840748784132302
-title: Israel A Posner MD
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8657104950398207
-  lightness: 0.8100315521005541
-  saturation: 0.044381650630384684
-  rhythmicContrast: 0.26009091711603105
+    - '#FFFFFF'
+    - '#1B1D1A'
+    - '#9C1B2F'
+    - '#525252'
+    - '#9F9F9F'
+  brandStrength: 0.86571
+  lightness: 0.810031
+  rhythmicContrast: 0.26009
+  saturation: 0.044381
+cta: {}
+layout_spectrum: 0.584704
+name: iaposner
+opengraph: {}
 purpose: []
+typography_spectrum: 0.622533
